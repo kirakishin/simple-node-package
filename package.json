@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-package",
+  "version": "0.0.0",
+  "description": "simple node module with an addition and a multiplication methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node display-the-date.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirakishin/simple-node-package.git"
+  },
+  "keywords": [
+    "addition",
+    "multiplication"
+  ],
+  "author": "kirakishin@bkm.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirakishin/simple-node-package/issues"
+  },
+  "homepage": "https://github.com/kirakishin/simple-node-package#readme"
+}
