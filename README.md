@@ -293,7 +293,7 @@ Now add new files and commit it :
 ```
 $ git add index.js package.json README.md display-the-date.js
 $ git commit -a -m "chore(init): first init"
-$ npm version:minor
+$ npm version minor
 $ git push && git push --tags
 ```
 
