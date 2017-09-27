@@ -320,6 +320,13 @@ We saw how to create a node module, use it, and publish it:
 - then use it with `var ask = module(42); var response = ask.bigQuestion('all')`
 - and see the answer to everything in the universe
 
+
+On github : https://github.com/kirakishin/simple-node-package
+
+Package on NPM : https://www.npmjs.com/package/simple-node-package
+
+Medium : https://medium.com/p/68f9db195865
+
 ## see more
 
 - [NPM package.json Doc](https://docs.npmjs.com/files/package.json)
