@@ -1,6 +1,6 @@
 {
   "name": "simple-node-package",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "simple node module with an addition and a multiplication methods",
   "main": "index.js",
   "scripts": {
