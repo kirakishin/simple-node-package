@@ -243,7 +243,7 @@ $ npm init
       "addition",
       "multiplication"
     ],
-    "author": "kirakishin@bkm.me",
+    "author": "**@**",
     "license": "MIT",
     "bugs": {
       "url": "https://github.com/kirakishin/simple-node-package/issues"
